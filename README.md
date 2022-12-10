@@ -1,7 +1,14 @@
 ### Hi there 👋
-I am Renu. 
+I am Renu.
 
 You can reach me: [Linkedin](https://www.linkedin.com/in/renuverma55/)
+
+Tools I am skilled in: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping , Plotly, Data Science,Scikit-learn, Excel.
+
+PROJECTS
+1. Exploratory Data Analysis and Visualization of Chicago Divvy bicycle sharing dataset(view)
+2. Scraped Amazon’s Top Rated Book details using Requests & BeautifulSoup4[(View)](https://github.com/RenuVerma55/DataAnalyticsProjects)
+3. Bookshop Analysis Using Excel and Tableau (Dashboard)
 
 
 <!--
