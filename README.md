@@ -3,7 +3,7 @@ I am Renu.
 
 You can reach me: [Linkedin](https://www.linkedin.com/in/renuverma55/)
 
-Tools I am skilled in: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping , Plotly, Data Science,Scikit-learn, Excel.
+Skill: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping , Plotly, Data Science,Scikit-learn, Excel.
 
 PROJECTS
 1. Exploratory Data Analysis and Visualization of Chicago Divvy bicycle sharing dataset(view)
