@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Renu. 
 
-You can reach me: Linkedin !(https://www.linkedin.com/in/renuverma55/)
+You can reach me: [Linkedin](https://www.linkedin.com/in/renuverma55/)
 
 
 <!--
