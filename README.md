@@ -27,7 +27,7 @@ PROJECTS
 
 
 
-![Profile views](https://gpvc.arturio.dev/[RenuVerma55])
+![](https://komarev.com/ghpvc/?username=RenuVerma55&label=PROFILE+VIEWS)
 
 
 
