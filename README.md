@@ -3,7 +3,7 @@
 
 You can reach me: [Linkedin](https://www.linkedin.com/in/renuverma55/)
 
-Skill: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping , Plotly, Data Science,Scikit-learn, Excel.
+**Skill**: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping , Plotly, Data Science, Machine Learning, Scikit-learn, Excel.
 
 PROJECTS
 
