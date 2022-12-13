@@ -1,27 +1,41 @@
-### Hi there 👋
-I am Renu.
+### Hi there 👋 I am Renu Verma
+
 
 You can reach me: [Linkedin](https://www.linkedin.com/in/renuverma55/)
 
 Skill: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping , Plotly, Data Science,Scikit-learn, Excel.
 
 PROJECTS
-1. Exploratory Data Analysis and Visualization of Chicago Divvy bicycle sharing dataset(view)
+1. Exploratory Data Analysis and Visualization of Chicago Divvy bicycle sharing dataset(View)
+    - Analyzed Divvy bicycle dataset from Kaggle for 9.3 million+ trips containing 23 columns using Pandas
+    - Created visualizations (sunburst plots, geo heatmaps, etc.) using Seaborn , Plotly & Folium
+    - Discovered 99.9% of the rides are subscribers only and 5-10 min rides are the most frequent rides
+
 2. Scraped Amazon’s Top Rated Book details using Requests & BeautifulSoup4[(View)](https://github.com/RenuVerma55/DataAnalyticsProjects)
+    - Scraped top rated books in each genre from Amazon.in website using Requests and BeautifulSoup4
+    - Extracted data such as book topic, book name, book url, author name, pricing, rating, star rating etc
+    - Stored data consisting of 1700 rows x 8 columns and into top_rated_books.csv using Pandas
+
 3. Bookshop Analysis Using Excel and Tableau (Dashboard)
+    - Analyzed the dataset of 59 books containing different sheets using Pivot Tables,Vlookup in Excel
+    - Loaded the dataset in tableau and created a dashboard having map, bar plot, packed bubbles etc
+    - Discovered that the United States has the highest no. of Authors, SciFi is the most popular Book Genre
+
 
 
 <!--
 **RenuVerma55/RenuVerma55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Data Science and Machine Learning
+
+👨‍💻 All of my projects are available at [Jovian](https://jovian.ai/renuverma55) Profile
+
+📝 I regularly write articles on [Medium](https://medium.com/@renuverma55)
+
+💬 Ask me about MySQL, Python, Statistics, Web scrapping, EDA, Machine Learning
+
+📫 How to reach me renuverma55@gmail.com
+
+
+
