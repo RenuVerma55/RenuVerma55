@@ -7,19 +7,19 @@ You can reach me: [Linkedin](https://www.linkedin.com/in/renuverma55/)
 
 PROJECTS
 
-**1. Exploratory Data Analysis and Visualization of Chicago Divvy bicycle sharing dataset[(View)](https://github.com/RenuVerma55/Exploratory-Data-Analysis-of-Bicycle-ride) **
+**1. Exploratory Data Analysis and Visualization of Chicago Divvy bicycle sharing dataset[(View)](https://github.com/RenuVerma55/Exploratory-Data-Analysis-of-Bicycle-ride)**
 
     - Analyzed Divvy bicycle dataset from Kaggle for 9.3 million+ trips containing 23 columns using Pandas
     - Created visualizations (sunburst plots, geo heatmaps, etc.) using Seaborn , Plotly & Folium
     - Discovered 99.9% of the rides are subscribers only and 5-10 min rides are the most frequent rides
 
-**2. Scraped Amazon’s Top Rated Book details using Requests & BeautifulSoup4[(View)](https://github.com/RenuVerma55/DataAnalyticsProjects)[Blog](https://medium.com/jovianml/a-beginners-guide-to-web-scraping-in-python-8de50bdf211b)**
+**2. Scraped Amazon’s Top Rated Book details using Requests & BeautifulSoup4[(View ,](https://github.com/RenuVerma55/DataAnalyticsProjects)[Blog](https://medium.com/jovianml/a-beginners-guide-to-web-scraping-in-python-8de50bdf211b))**
 
     - Scraped top rated books in each genre from Amazon.in website using Requests and BeautifulSoup4
     - Extracted data such as book topic, book name, book url, author name, pricing, rating, star rating etc
     - Stored data consisting of 1700 rows x 8 columns and into top_rated_books.csv using Pandas
 
-**3. Bookshop Analysis Using Excel and Tableau**
+**3. Bookshop Analysis Using Excel and Tableau**[Deskboard](https://public.tableau.com/app/profile/renu8096/viz/Bookshop_16586686996080/Dashboard1)
 
     - Analyzed the dataset of 59 books containing different sheets using Pivot Tables,Vlookup in Excel
     - Loaded the dataset in tableau and created a dashboard having map, bar plot, packed bubbles etc
