@@ -7,7 +7,7 @@ You can reach me: [Linkedin](https://www.linkedin.com/in/renuverma55/)
 
 PROJECTS
 
-**1. Exploratory Data Analysis and Visualization of Chicago Divvy bicycle sharing dataset [(View ,)](https://github.com/RenuVerma55/Exploratory-Data-Analysis-of-Bicycle-ride) [Blog](https://medium.com/python-in-plain-english/exploratory-data-analysis-of-chicago-divvy-bicycle-sharing-c441f1036113)**
+**1. Exploratory Data Analysis and Visualization of Chicago Divvy bicycle sharing dataset [(View ,](https://github.com/RenuVerma55/Exploratory-Data-Analysis-of-Bicycle-ride) [Blog](https://medium.com/python-in-plain-english/exploratory-data-analysis-of-chicago-divvy-bicycle-sharing-c441f1036113))**
 
     - Analyzed Divvy bicycle dataset from Kaggle for 9.3 million+ trips containing 23 columns using Pandas
     - Created visualizations (sunburst plots, geo heatmaps, etc.) using Seaborn , Plotly & Folium
