@@ -52,7 +52,7 @@ PROJECTS
 
 📝 I regularly write articles on [Medium](https://medium.com/@renuverma55)
 
-💬 Ask me about MySQL, Python, Statistics, Web scrapping, EDA, Machine Learning
+💬 Ask me about MySQL,Power BI, Python, Statistics, Web scrapping, EDA, Machine Learning
 
 📫 How to reach me renuverma55@gmail.com
 
