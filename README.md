@@ -19,7 +19,14 @@ PROJECTS
     - Extracted data such as book topic, book name, book url, author name, pricing, rating, star rating etc
     - Stored data consisting of 1700 rows x 8 columns and into top_rated_books.csv using Pandas
 
-**3. Bookshop Analysis Using Excel and Tableau** [( Deskboard )](https://public.tableau.com/app/profile/renu8096/viz/Bookshop_16586686996080/Dashboard1)
+**3.  Business 360 - Brick & mortar and e-commerce**(View)
+   
+     - Designed a multi-view dashboard in Power BI , gathering sales data from 2 different data sources (MySQL and Excel)
+        with more than 1M records and performed data modelling.
+     - Optimised with DAX Studio, resulting in a 5% performance boost and projected 10% revenue growth.
+
+
+**4. Bookshop Analysis Using Excel and Tableau** [( Deskboard )](https://public.tableau.com/app/profile/renu8096/viz/Bookshop_16586686996080/Dashboard1)
 
     - Analyzed the dataset of 59 books containing different sheets using Pivot Tables,Vlookup in Excel
     - Loaded the dataset in tableau and created a dashboard having map, bar plot, packed bubbles etc
