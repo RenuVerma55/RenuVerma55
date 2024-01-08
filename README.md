@@ -19,7 +19,7 @@ PROJECTS
     - Extracted data such as book topic, book name, book url, author name, pricing, rating, star rating etc
     - Stored data consisting of 1700 rows x 8 columns and into top_rated_books.csv using Pandas
 
-**3.  Business 360 - Brick & mortar and e-commerce**(View)
+**3.  Business 360 - Brick & mortar and e-commerce**[(View)](https://www.novypro.com/project/bi-360--sales-insights)
    
      - Designed a multi-view dashboard in Power BI , gathering sales data from 2 different data sources (MySQL and Excel)
         with more than 1M records and performed data modelling.
